@@ -21,6 +21,9 @@ import (
 
 // Запуск теста
 func Start(t *testing.T, home string, fileName string, env misc.StringMap, cfg config.App) (err error) {
+	panicID := panic.ID()
+	defer panic.SaveStackToLogEx(panicID)
+
 	misc.TEST = true // В коде можно проверять эту переменную, чтобы понимать это тест или нормальная работа
 
 	// Настраиваем логирование
