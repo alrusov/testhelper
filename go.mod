@@ -11,6 +11,7 @@ require (
 	github.com/alrusov/config v0.1.43
 	github.com/alrusov/log v0.1.31
 	github.com/alrusov/misc v0.1.49
+	github.com/alrusov/panic v0.1.14
 )
 
 require (
@@ -18,7 +19,6 @@ require (
 	github.com/alrusov/bufpool v0.1.7 // indirect
 	github.com/alrusov/jsonw v0.1.1 // indirect
 	github.com/alrusov/loadavg v0.1.4 // indirect
-	github.com/alrusov/panic v0.1.14 // indirect
 	github.com/alrusov/stdhttp v0.1.97 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible // indirect
 	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1 // indirect

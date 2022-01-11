@@ -9,6 +9,7 @@ import (
 	"github.com/alrusov/config"
 	"github.com/alrusov/log"
 	"github.com/alrusov/misc"
+	"github.com/alrusov/panic"
 
 	_ "github.com/alrusov/auth-basic"
 	_ "github.com/alrusov/auth-jwt"
