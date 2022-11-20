@@ -10,7 +10,7 @@ import (
 //----------------------------------------------------------------------------------------------------------------------------//
 
 // Загрузка конфига приложения
-func LoadConfig(home string, fileName string, env misc.StringMap, cfg interface{}) (err error) {
+func LoadConfig(home string, fileName string, env misc.StringMap, cfg any) (err error) {
 	if home != "" {
 		// Идем в заданную (домашнюю для приложения) директорию, если она задана
 		os.Chdir(home)
