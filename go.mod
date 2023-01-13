@@ -8,23 +8,28 @@ require (
 	github.com/alrusov/auth-keycloak v0.1.6
 	github.com/alrusov/auth-krb5 v0.1.3
 	github.com/alrusov/auth-url v0.1.2
-	github.com/alrusov/config v0.1.47
-	github.com/alrusov/log v0.1.33
-	github.com/alrusov/misc v1.0.65
+	github.com/alrusov/config v0.1.50
+	github.com/alrusov/db v0.1.16
+	github.com/alrusov/log v0.1.34
+	github.com/alrusov/misc v1.1.5
 	github.com/alrusov/panic v0.1.15
+	github.com/alrusov/rest/v2 v2.0.20
+	github.com/alrusov/stdhttp v0.1.109
 )
 
 require (
+	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
 	github.com/alrusov/auth v0.1.2 // indirect
+	github.com/alrusov/initializer v0.1.2 // indirect
 	github.com/alrusov/jsonw v0.1.3 // indirect
 	github.com/alrusov/loadavg v0.1.5 // indirect
-	github.com/alrusov/stdhttp v0.1.106 // indirect
 	github.com/coreos/go-oidc v2.2.1+incompatible // indirect
 	github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/jcmturner/gofork v1.7.6 // indirect
+	github.com/jmoiron/sqlx v1.3.5 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
