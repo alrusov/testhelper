@@ -9,11 +9,11 @@ require (
 	github.com/alrusov/auth-krb5 v0.1.3
 	github.com/alrusov/auth-url v0.1.2
 	github.com/alrusov/config v0.1.50
-	github.com/alrusov/db v0.1.16
+	github.com/alrusov/db v0.1.20
 	github.com/alrusov/log v0.1.34
-	github.com/alrusov/misc v1.1.5
+	github.com/alrusov/misc v1.1.6
 	github.com/alrusov/panic v0.1.15
-	github.com/alrusov/rest/v2 v2.0.20
+	github.com/alrusov/rest/v2 v2.0.22
 	github.com/alrusov/stdhttp v0.1.109
 )
 
