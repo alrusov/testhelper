@@ -3,23 +3,24 @@ module github.com/alrusov/testhelper
 go 1.20
 
 require (
-	github.com/alrusov/auth-basic v0.1.3
-	github.com/alrusov/auth-jwt v0.1.8
-	github.com/alrusov/auth-keycloak v0.1.7
-	github.com/alrusov/auth-krb5 v0.1.3
-	github.com/alrusov/auth-url v0.1.3
-	github.com/alrusov/config v0.1.55
-	github.com/alrusov/db v0.1.32
+	github.com/alrusov/auth-basic v0.1.4
+	github.com/alrusov/auth-jwt v0.1.13
+	github.com/alrusov/auth-keycloak v0.1.8
+	github.com/alrusov/auth-krb5 v0.1.4
+	github.com/alrusov/auth-url v0.1.4
+	github.com/alrusov/config v0.1.57
+	github.com/alrusov/db v0.1.36
 	github.com/alrusov/log v0.1.37
-	github.com/alrusov/misc v1.1.8
+	github.com/alrusov/misc v1.1.9
 	github.com/alrusov/panic v0.1.15
-	github.com/alrusov/rest/v3 v3.0.1
-	github.com/alrusov/stdhttp v0.1.114
+	github.com/alrusov/rest/v3 v3.0.11
+	github.com/alrusov/stdhttp v0.1.116
 )
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.0 // indirect
-	github.com/alrusov/auth v0.1.4 // indirect
+	github.com/alrusov/auth v0.1.6 // indirect
+	github.com/alrusov/cache v0.1.3 // indirect
 	github.com/alrusov/initializer v0.1.2 // indirect
 	github.com/alrusov/jsonw v0.1.3 // indirect
 	github.com/alrusov/loadavg v0.1.5 // indirect
