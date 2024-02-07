@@ -11,7 +11,7 @@ import (
 	"github.com/alrusov/db"
 	"github.com/alrusov/misc"
 	"github.com/alrusov/panic"
-	"github.com/alrusov/rest/v3"
+	"github.com/alrusov/rest/v4"
 	"github.com/alrusov/stdhttp"
 )
 
